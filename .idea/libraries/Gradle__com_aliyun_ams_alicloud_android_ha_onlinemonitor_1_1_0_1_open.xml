@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.ams:alicloud-android-ha-onlinemonitor-1.1.0.1-open">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alicloud-android-ha-onlinemonitor-1.1.0.1-open.aar/e0ab4a03ac76b0c486d74003a74fd79b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alicloud-android-ha-onlinemonitor-1.1.0.1-open.aar/e0ab4a03ac76b0c486d74003a74fd79b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

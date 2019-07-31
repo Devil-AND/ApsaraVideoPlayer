@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.ams:alicloud-android-ha-ut-analytics-1.1.0.1-open">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alicloud-android-ha-ut-analytics-1.1.0.1-open.aar/feece1c6284c8d79334d75a92e974148/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alicloud-android-ha-ut-analytics-1.1.0.1-open.aar/feece1c6284c8d79334d75a92e974148/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.ams:alicloud-android-ha-crashreporter-1.1.0.1-open">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alicloud-android-ha-crashreporter-1.1.0.1-open.aar/414a5f49f073711d54170791a8c4ef29/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alicloud-android-ha-crashreporter-1.1.0.1-open.aar/414a5f49f073711d54170791a8c4ef29/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

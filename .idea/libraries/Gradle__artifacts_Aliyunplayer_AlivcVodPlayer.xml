@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:Aliyunplayer.AlivcVodPlayer">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.9.aar/c13a9ab6e04b99dd7b6a42b4c2e6eed1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.9.aar/c13a9ab6e04b99dd7b6a42b4c2e6eed1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
